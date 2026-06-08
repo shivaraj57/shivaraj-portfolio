@@ -182,3 +182,9 @@
     border-right-color: var(--border);
   }
 }
+.signature{
+  font-family: cursive;
+  font-size: 60px;
+  color: #38bdf8;
+  margin-bottom: -10px;
+}
