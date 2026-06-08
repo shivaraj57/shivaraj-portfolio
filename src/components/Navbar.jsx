@@ -19,7 +19,7 @@ return (
     })
   }
 >
-  Shivaraj PM
+  
 </h2>
     <div className="nav-right">
 
