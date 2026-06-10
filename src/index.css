@@ -737,13 +737,7 @@ body{
     overflow:hidden;
 }
 
-.bg-quote{
-    top:180px;
-    font-size:220px;
-    font-family:'Orbitron',sans-serif;
-    font-weight:900;
-    color:rgba(255,255,255,0.04);
-}
+
 
 .profile-container{
     position:relative;
@@ -758,4 +752,17 @@ body{
 .buttons{
     position:relative;
     z-index:10;
+}
+.hero-top{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:60px;
+    margin-bottom:40px;
+    flex-wrap:wrap;
+}
+
+.hero-content{
+    max-width:600px;
+    text-align:left;
 }
